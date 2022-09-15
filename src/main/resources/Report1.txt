@@ -1,0 +1,4 @@
+Report 
+This report contains orders made between the given hours.
+Order ID: 1 Client ID 2 Products: meniul zilei Price: 3 Date: Sat May 15 20:42:42 EEST 2021
+Order ID: 2 Client ID 2 Products: sarma rosie Price: 3 Date: Sat May 15 20:42:48 EEST 2021

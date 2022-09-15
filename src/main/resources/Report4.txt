@@ -1,0 +1,6 @@
+Report 
+This report contains the products ordered on the given day and the number of dates on which they were ordered.
+Products: 
+meniul zilei Ordered: 1 times 
+sarma Ordered: 1 times 
+rosie Ordered: 1 times 

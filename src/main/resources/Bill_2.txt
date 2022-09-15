@@ -1,0 +1,8 @@
+Bill
+Order ID: 2
+Client ID:  2
+Products: 
+sa
+sa
+Price: 2
+Date: Sun May 16 14:23:57 EEST 2021
